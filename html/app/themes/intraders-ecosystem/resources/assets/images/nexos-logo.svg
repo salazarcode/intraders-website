@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="277" height="86" viewBox="0 0 277 86">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#008bff"/>
+      <stop offset="1" stop-color="#114de8"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_3" data-name="Grupo 3" transform="translate(-475.211 554.744)">
+    <path id="Trazado_4" data-name="Trazado 4" d="M434.861-525.367v30.523h8.813v-40.321Z" transform="translate(40.446 7.648)" fill="#00111c"/>
+    <path id="Trazado_6" data-name="Trazado 6" d="M0,9.8V40.321H8.758V0Z" transform="translate(517.291 -494.703) rotate(180)" fill="#00111c"/>
+    <path id="Trazado_5" data-name="Trazado 5" d="M434.844-511.435l.079-29.989,33.19,38.918,8.81-7.129v29.8L443.667-519Z" transform="translate(40.368 -0.579)" fill="url(#linear-gradient)"/>
+    <text id="EXOS" transform="translate(534.211 -486.744)" fill="#00111c" font-size="70" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="0.1em"><tspan x="0" y="0">EXOS</tspan></text>
+  </g>
+</svg>

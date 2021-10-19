@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="550" height="878" viewBox="0 0 550 878">
+  <defs>
+    <filter id="Rectángulo_11" x="0" y="0" width="542" height="878" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#0672f5" flood-opacity="0.259"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_34" data-name="Grupo 34" transform="translate(3790 -4076)">
+    <g transform="matrix(1, 0, 0, 1, -3790, 4076)" filter="url(#Rectángulo_11)">
+      <rect id="Rectángulo_11-2" data-name="Rectángulo 11" width="524" height="860" rx="27" transform="translate(9 6)" fill="#10212b"/>
+    </g>
+    <g id="Elipse_5" data-name="Elipse 5" transform="translate(-3714 4328.238)" fill="none" stroke="#fff" stroke-width="2">
+      <circle cx="58.864" cy="58.864" r="58.864" stroke="none"/>
+      <circle cx="58.864" cy="58.864" r="57.864" fill="none"/>
+    </g>
+    <text id="Tú" transform="translate(-3668.514 4393.062)" fill="#fff" font-size="19" font-family="Montserrat-Bold, Montserrat" font-weight="700" letter-spacing="0.2em"><tspan x="0" y="0">Tú</tspan></text>
+    <text id="_Tu_equipo" data-name="
+Tu equipo" transform="translate(-3565.887 4439.946) rotate(-90)" fill="#fff" font-size="16" font-family="Montserrat-Light, Montserrat" font-weight="300" letter-spacing="0.2em"><tspan x="0" y="0"></tspan><tspan x="0" y="19">Tu equipo</tspan></text>
+    <text id="Sus_equipos" data-name="Sus equipos" transform="translate(-3382.607 4451.317) rotate(-90)" fill="#fff" font-size="16" font-family="Montserrat-Light, Montserrat" font-weight="300" letter-spacing="0.2em"><tspan x="0" y="0">Sus equipos</tspan></text>
+    <line id="Línea_3" data-name="Línea 3" x2="30.77" transform="translate(-3595.604 4387.771)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    <path id="Trazado_10" data-name="Trazado 10" d="M0,0H78.074" transform="translate(-3438.41 4278.739)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    <line id="Línea_5" data-name="Línea 5" x2="30.77" transform="translate(-3438.41 4387.771)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    <g id="Grupo_6" data-name="Grupo 6" transform="translate(-3367.506 4234)">
+      <g id="Elipse_6" data-name="Elipse 6" transform="translate(12.568 33.086)" fill="none" stroke="#06f52e" stroke-width="2">
+        <circle cx="11.358" cy="11.358" r="11.358" stroke="none"/>
+        <circle cx="11.358" cy="11.358" r="10.358" fill="none"/>
+      </g>
+      <g id="Elipse_8" data-name="Elipse 8" transform="translate(12.568 66.171)" fill="none" stroke="#06f52e" stroke-width="2">
+        <circle cx="11.358" cy="11.358" r="11.358" stroke="none"/>
+        <circle cx="11.358" cy="11.358" r="10.358" fill="none"/>
+      </g>
+      <g id="Elipse_7" data-name="Elipse 7" transform="translate(12.568)" fill="none" stroke="#06f52e" stroke-width="2">
+        <circle cx="11.358" cy="11.358" r="11.358" stroke="none"/>
+        <circle cx="11.358" cy="11.358" r="10.358" fill="none"/>
+      </g>
+      <path id="Trazado_7" data-name="Trazado 7" d="M2606.068,1284.5h12.312" transform="translate(-2605.812 -1239.81)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      <path id="Trazado_8" data-name="Trazado 8" d="M2606.068,1243.327s7.96,1.822,8.265-12.456,4.56-14.583,4.56-14.583" transform="translate(-2605.812 -1205.282)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      <path id="Trazado_9" data-name="Trazado 9" d="M2606.068,1216.361s7.96-1.765,8.265,12.068,4.56,14.128,4.56,14.128" transform="translate(-2606.068 -1165.027)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <g id="Grupo_7" data-name="Grupo 7" transform="translate(-3367.506 4343.328)">
+      <g id="Elipse_6-2" data-name="Elipse 6" transform="translate(12.568 33.086)" fill="none" stroke="#06f52e" stroke-width="2">
+        <circle cx="11.358" cy="11.358" r="11.358" stroke="none"/>
+        <circle cx="11.358" cy="11.358" r="10.358" fill="none"/>
+      </g>
+      <g id="Elipse_8-2" data-name="Elipse 8" transform="translate(12.568 66.171)" fill="none" stroke="#06f52e" stroke-width="2">
+        <circle cx="11.358" cy="11.358" r="11.358" stroke="none"/>
+        <circle cx="11.358" cy="11.358" r="10.358" fill="none"/>
+      </g>
+      <g id="Elipse_7-2" data-name="Elipse 7" transform="translate(12.568)" fill="none" stroke="#06f52e" stroke-width="2">
+        <circle cx="11.358" cy="11.358" r="11.358" stroke="none"/>
+        <circle cx="11.358" cy="11.358" r="10.358" fill="none"/>
+      </g>
+      <path id="Trazado_7-2" data-name="Trazado 7" d="M2606.068,1284.5h12.312" transform="translate(-2605.812 -1239.81)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      <path id="Trazado_8-2" data-name="Trazado 8" d="M2606.068,1243.327s7.96,1.822,8.265-12.456,4.56-14.583,4.56-14.583" transform="translate(-2605.812 -1205.282)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      <path id="Trazado_9-2" data-name="Trazado 9" d="M2606.068,1216.361s7.96-1.765,8.265,12.068,4.56,14.128,4.56,14.128" transform="translate(-2606.068 -1165.027)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <g id="Grupo_8" data-name="Grupo 8" transform="translate(-3439.487 4451.317)">
+      <g id="Elipse_6-3" data-name="Elipse 6" transform="translate(84.549 33.086)" fill="none" stroke="#06f52e" stroke-width="2">
+        <circle cx="11.358" cy="11.358" r="11.358" stroke="none"/>
+        <circle cx="11.358" cy="11.358" r="10.358" fill="none"/>
+      </g>
+      <g id="Elipse_8-3" data-name="Elipse 8" transform="translate(84.549 66.171)" fill="none" stroke="#06f52e" stroke-width="2">
+        <circle cx="11.358" cy="11.358" r="11.358" stroke="none"/>
+        <circle cx="11.358" cy="11.358" r="10.358" fill="none"/>
+      </g>
+      <g id="Elipse_7-3" data-name="Elipse 7" transform="translate(84.549)" fill="none" stroke="#06f52e" stroke-width="2">
+        <circle cx="11.358" cy="11.358" r="11.358" stroke="none"/>
+        <circle cx="11.358" cy="11.358" r="10.358" fill="none"/>
+      </g>
+      <path id="Trazado_7-3" data-name="Trazado 7" d="M2606.067,1284.5h84.549" transform="translate(-2606.067 -1239.81)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      <path id="Trazado_8-3" data-name="Trazado 8" d="M2606.068,1243.327s7.96,1.822,8.265-12.456,4.56-14.583,4.56-14.583" transform="translate(-2533.831 -1205.282)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      <path id="Trazado_9-3" data-name="Trazado 9" d="M2606.068,1216.361s7.96-1.765,8.265,12.068,4.56,14.128,4.56,14.128" transform="translate(-2534.087 -1165.027)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <g id="Grupo_4" data-name="Grupo 4" transform="translate(-3533.998 4247.969)">
+      <g id="Elipse_6-4" data-name="Elipse 6" transform="translate(34.048 108.363)" fill="none" stroke="#0672f5" stroke-width="2">
+        <circle cx="30.77" cy="30.77" r="30.77" stroke="none"/>
+        <circle cx="30.77" cy="30.77" r="29.77" fill="none"/>
+      </g>
+      <g id="Elipse_8-4" data-name="Elipse 8" transform="translate(34.048 218.064)" fill="none" stroke="#0672f5" stroke-width="2">
+        <circle cx="30.77" cy="30.77" r="30.77" stroke="none"/>
+        <circle cx="30.77" cy="30.77" r="29.77" fill="none"/>
+      </g>
+      <g id="Elipse_7-4" data-name="Elipse 7" transform="translate(34.048 0)" fill="none" stroke="#0672f5" stroke-width="2">
+        <circle cx="30.77" cy="30.77" r="30.77" stroke="none"/>
+        <circle cx="30.77" cy="30.77" r="29.77" fill="none"/>
+      </g>
+      <path id="Trazado_7-4" data-name="Trazado 7" d="M2606.068,1284.5h33.355" transform="translate(-2605.374 -1144.698)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      <path id="Trazado_8-4" data-name="Trazado 8" d="M2606.068,1289.539s21.564,4.937,22.389-33.745,12.353-39.506,12.353-39.506" transform="translate(-2605.374 -1185.518)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      <path id="Trazado_9-4" data-name="Trazado 9" d="M2606.068,1216.486s21.564-4.783,22.389,32.693,12.353,38.274,12.353,38.274" transform="translate(-2606.068 -1040.91)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <text id="El_sistema_de_Nexos_Los_nexos_funcionan_como_relaciones_entre_usuarios_que_se_refieren." data-name="El sistema de Nexos
+Los nexos funcionan 
+como relaciones entre 
+usuarios que se refieren." transform="translate(-3714 4607)" fill="#0672f5" font-size="14" font-family="Montserrat-Bold, Montserrat" font-weight="700" letter-spacing="0.2em"><tspan x="0" y="0">El sistema de Nexos</tspan><tspan fill="#fff" font-size="28" font-family="Montserrat-Light, Montserrat" font-weight="300" letter-spacing="0.1em"><tspan x="0" y="31">Los nexos funcionan </tspan><tspan x="0" y="65">como relaciones entre </tspan><tspan x="0" y="99">usuarios que se refieren.</tspan></tspan></text>
+    <text id="Los_usuarios_generan_Nexos_entre_sí_para_hacer_funcionar_un_sistema_de_reproducción_de_Leads._Los_Nexos_se_relacionan_en_Ecosistemas_reproductores_de_1_a_3._Cada_usuario_debe_crear_nexos_directos_con_3_usuarios_distintos_en_cada_Ecosistema._" data-name="Los usuarios generan &quot;Nexos&quot; entre sí, para hacer funcionar un sistema de reproducción de Leads.
+
+Los Nexos se relacionan en Ecosistemas reproductores de 1 a 3.
+
+Cada usuario debe crear nexos directos con 3 usuarios distintos en cada Ecosistema. 
+" transform="translate(-3714 4746)" fill="#fff" font-size="12" font-family="Montserrat-Light, Montserrat" font-weight="300" letter-spacing="0.2em"><tspan x="0" y="12">Los usuarios generan &quot;Nexos&quot; entre sí, para hacer </tspan><tspan x="0" y="27">funcionar un sistema de reproducción de Leads.</tspan><tspan x="0" y="42"></tspan><tspan x="0" y="57">Los Nexos se relacionan en </tspan><tspan y="57" font-family="Montserrat-Bold, Montserrat" font-weight="700">Ecosistemas </tspan><tspan x="0" y="72" font-family="Montserrat-Bold, Montserrat" font-weight="700">reproductores de 1 a 3.</tspan><tspan x="0" y="87"></tspan><tspan x="0" y="102">Cada usuario debe crear nexos directos</tspan><tspan y="102" xml:space="preserve" font-family="Montserrat-Bold, Montserrat" font-weight="700"> con 3 </tspan><tspan x="0" y="117" font-family="Montserrat-Bold, Montserrat" font-weight="700">usuarios distintos</tspan><tspan y="117" xml:space="preserve"> en cada Ecosistema. </tspan><tspan x="0" y="132"></tspan></text>
+    <text id="_Cómo_funciona_el_sistema_de_Nexos_" data-name="¿Cómo funciona el 
+sistema de Nexos?
+" transform="translate(-3714 4130.936)" fill="#0672f5" font-size="20" font-family="Montserrat-Medium, Montserrat" font-weight="500" letter-spacing="0.1em"><tspan x="0" y="19">¿Cómo funciona el </tspan><tspan font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="43">sistema de Nexos</tspan><tspan y="43" font-family="Montserrat-Medium, Montserrat" font-weight="500">?</tspan></tspan></text>
+  </g>
+</svg>
